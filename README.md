@@ -2,7 +2,7 @@
 
 A modular Python application to help you track, manage, and analyze your diabetes-related habits.
 
-**GitHub Repository:** [https://github.com/yourusername/diabetes-habit-tracker](https://github.com/yourusername/diabetes-habit-tracker)
+**GitHub Repository:** [https://github.com/NURSEIJ/dm-beat-it-tracker](https://github.com/NURSEIJ/dm-beat-it-tracker)
 
 ---
 
