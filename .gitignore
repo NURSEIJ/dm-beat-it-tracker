@@ -1,1 +1,43 @@
-"" 
+### Python ###
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+### IDE ###
+# VS Code
+.vscode/
+.idea/
+
+# Windows
+Thumbs.db
+.DS_Store
+
+### Project Specific ###
+# Data files
+habits.json
+
+# Logs and databases
+*.log
+*.sqlite3
+
+### System ###
+# Compression artifacts
+*.zip
+*.7z
+
+# Temporary files
+TestUnzip/
+local_files.txt
+unzipped_files.txt
+github_files.txt
+
+# Testing cache
+.pytest_cache/
