@@ -1,1 +1,24 @@
-"" 
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# Environment
+.env
+.venv
+
+# Database/Logs
+*.sqlite3
+*.log
+
+# OS
+.DS_Store
+
+# IDEs
+.idea/
+.vscode/
+
+# Project files
+habits.json"" 
