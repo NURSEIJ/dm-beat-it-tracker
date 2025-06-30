@@ -23,3 +23,9 @@ A modular Python application to help you track, manage, and analyze your diabete
 ## 📥 Installation  
 Follow the [Installation Guide](docs/INSTALLATION.md) to set up the project.  
 - [User Manual](docs/USER_MANUAL.md)
+## 🛠️ Setup
+1. Install Python 3.8+ from [python.org](https://python.org).
+2. Run this to install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   
