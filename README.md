@@ -22,3 +22,4 @@ A modular Python application to help you track, manage, and analyze your diabete
 ## Project Structure
 ## 📥 Installation  
 Follow the [Installation Guide](docs/INSTALLATION.md) to set up the project.  
+- [User Manual](docs/USER_MANUAL.md)
